@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Discover the Future of Electric Cars</title>
+  <style>
+    /* Add your CSS styling here */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .header {
+      background-image: url('electric_car_header.jpg');
+      background-size: cover;
+      color: #fff;
+      text-align: center;
+      padding: 100px 0;
+    }
+    .features {
+      padding: 50px 20px;
+      text-align: center;
+    }
+    .testimonial {
+      display: flex;
+      justify-content: space-around;
+      padding: 50px 20px;
+    }
+    .cta {
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      padding: 15px 30px;
+      font-size: 18px;
+      border-radius: 5px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Welcome to the Future of Transportation!</h1>
+  <p>Discover the cutting-edge technology and sustainability of electric vehicles (EVs) with our latest launch event. Join us as we unveil the next generation of electric cars that will revolutionize the way we drive.</p>
+  <a href="#" class="cta">Reserve Your Spot</a>
+</div>
+
+<div class="features">
+  <h2>Features</h2>
+  <div class="feature-item">
+    <h3>Unparalleled Performance</h3>
+    <p>Experience the thrill of instant acceleration and smooth driving with our high-performance electric motors.</p>
+  </div>
+  <div class="feature-item">
+    <h3>Sustainable Innovation</h3>
+    <p>Say goodbye to fossil fuels and embrace a greener future with zero-emission electric vehicles.</p>
+  </div>
+  <div class="feature-item">
+    <h3>Advanced Technology</h3>
+    <p>From autonomous driving capabilities to state-of-the-art infotainment systems, our EVs are equipped with the latest tech innovations.</p>
+  </div>
+  <div class="feature-item">
+    <h3>Long-Range Efficiency</h3>
+    <p>Travel further on a single charge with our advanced battery technology, ensuring you can go the distance with confidence.</p>
+  </div>
+</div>
+
+<div class="testimonial">
+  <!-- You can add video testimonials here -->
+</div>
+
+<div class="footer">
+  <p>Be Part of the Revolution! Join us at our exclusive launch event to be among the first to experience the future of electric cars. <a href="#" class="cta">Reserve Your Spot</a> now and be ready to witness history in the making.</p>
+</div>
+
+</body>
+</html>
